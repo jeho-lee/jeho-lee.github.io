@@ -1,11 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  # - title: "MAUI: Model-driven Development Tool for Usability-enhanced Web Interaction Techniques"
+  #   authors: <strong>Jeho Lee</strong>, Seonghoon Park, Yoonha Cha, Hojung Cha
+  #   conference_short: THMS
+  #   conference: IEEE Transactions on Human-Machine Systems
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept
+
+  # - title: "Vulture: Cross-Device Web Experience with Fine-Grained Graphical User Interface Distribution"
+  #   authors: Seonghoon Park, <strong>Jeho Lee</strong>, Yonghun Choi, Hojung Cha
+  #   conference_short: INFOCOM
+  #   conference: IEEE Conference on Computer Communications (INFOCOM 2024)
+  #   pdf: https://mobed.yonsei.ac.kr/mobed_pages/pdf/index.php?name=INFOCOM24-Vulture
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   # notes: Early Accept
+
+  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  #   conference_short: MICCAI
+  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept
+  
