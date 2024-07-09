@@ -9,15 +9,15 @@ I am a Ph.D. student at ...
 ## Research Interests
 
 - **Mobile Edge AI Systems**
-- **3D Vision Systems**
+- **3D Vision Applications and Systems**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]** .
+- **[Dec. 2023]** Our paper Vulture is accepted to INFOCOM 2024.
+- **[May. 2023]** Our paper OmniLive is accepted to MobiSys 2023.
+- **[Dec. 2022]** Our paper Crow API is accepted to INFOCOM 2023.
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
