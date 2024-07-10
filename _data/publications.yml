@@ -12,30 +12,30 @@ main:
 
   - title: "Vulture: Cross-Device Web Experience with Fine-Grained Graphical User Interface Distribution"
     authors: Seonghoon Park, <strong>Jeho Lee</strong>, Yonghun Choi, Hojung Cha
-    conference_short: INFOCOM
+    conference_short: INFOCOM 2024
     conference: IEEE Conference on Computer Communications (INFOCOM 2024)
     pdf: https://mobed.yonsei.ac.kr/mobed_pages/pdf/index.php?name=INFOCOM24-Vulture
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/vulture.png
+    # image: ./assets/img/vulture.png
     # notes: Early Accept
 
   - title: "OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices"
     authors: Seonghoon Park, Yeonwoo Cho, Hyungchol Jun, <strong>Jeho Lee</strong>, Hojung Cha
-    conference_short: MobiSys
+    conference_short: MobiSys 2023
     conference: ACM International Conference on Mobile Systems, Applications and Services (MobiSys 2023)
     pdf: https://dl.acm.org/doi/abs/10.1145/3581791.3596851
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/omnilive.png
+    # image: ./assets/img/omnilive.png
     # notes: Early Accept
 
   - title: "Crow API: Cross-device I/O Sharing in Web Applications"
     authors: Seonghoon Park, <strong>Jeho Lee</strong>, Hojung Cha
-    conference_short: INFOCOM
+    conference_short: INFOCOM 2023
     conference: IEEE Conference on Computer Communications (INFOCOM 2023)
     pdf: https://ieeexplore.ieee.org/document/10228950
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/crowapi.png
+    # image: ./assets/img/crowapi.png
     # notes: Early Accept
