@@ -14,7 +14,7 @@ main:
     authors: Seonghoon Park, <u><strong>Jeho Lee</strong></u>, Yonghun Choi, Hojung Cha
     conference_short: INFOCOM 2024
     conference: IEEE Conference on Computer Communications (<strong>INFOCOM 2024</strong>)
-    pdf: https://mobed.yonsei.ac.kr/mobed_pages/pdf/index.php?name=INFOCOM24-Vulture
+    # pdf: https://mobed.yonsei.ac.kr/mobed_pages/pdf/index.php?name=INFOCOM24-Vulture
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/vulture.png
@@ -24,7 +24,7 @@ main:
     authors: Seonghoon Park, Yeonwoo Cho, Hyungchol Jun, <u><strong>Jeho Lee</strong></u>, Hojung Cha
     conference_short: MobiSys 2023
     conference: ACM International Conference on Mobile Systems, Applications and Services (<strong>MobiSys 2023</strong>)
-    pdf: https://dl.acm.org/doi/abs/10.1145/3581791.3596851
+    # pdf: https://dl.acm.org/doi/abs/10.1145/3581791.3596851
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/omnilive.png
@@ -34,7 +34,7 @@ main:
     authors: Seonghoon Park, <u><strong>Jeho Lee</strong></u>, Hojung Cha
     conference_short: INFOCOM 2023
     conference: IEEE Conference on Computer Communications (<strong>INFOCOM 2023</strong>)
-    pdf: https://ieeexplore.ieee.org/document/10228950
+    # pdf: https://ieeexplore.ieee.org/document/10228950
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/crowapi.png
