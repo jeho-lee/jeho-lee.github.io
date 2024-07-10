@@ -9,7 +9,7 @@ I am a Ph.D. student at ...
 ## Research Interests
 
 - **Mobile Edge AI Systems**
-- **3D Vision Applications and Systems**
+- **3D Vision Systems and Applications**
 
 ## News
 
