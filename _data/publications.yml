@@ -1,15 +1,5 @@
 main:
 
-  # - title: "MAUI: Model-driven Development Tool for Usability-enhanced Web Interaction Techniques"
-  #   authors: <strong>Jeho Lee</strong>, Seonghoon Park, Yoonha Cha, Hojung Cha
-  #   conference_short: THMS
-  #   conference: IEEE Transactions on Human-Machine Systems
-  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   # code: https://github.com/MrGiovanni/ContinualLearning
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
-
   - title: "Vulture: Cross-Device Web Experience with Fine-Grained Graphical User Interface Distribution"
     authors: Seonghoon Park, <u><strong>Jeho Lee</strong></u>, Yonghun Choi, Hojung Cha
     conference_short: INFOCOM 2024
