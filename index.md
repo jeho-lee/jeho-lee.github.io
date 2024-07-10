@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Yonsei University under the supervision of [Prof. Hojung Cha](https://mobed.yonsei.ac.kr/). My research interests lie in the intersection of mobile edge AI systems and 3D vision applications. Previously, I received my B.S. degree in Computer Engineering from Ajou University.
+I am a Ph.D. student at Yonsei University under the supervision of <U>**[Prof. Hojung Cha](https://mobed.yonsei.ac.kr/)**</U>. My research interests lie in the intersection of mobile edge AI systems and 3D vision applications. Previously, I received my B.S. degree in Computer Engineering from Ajou University.
 
 ## Research Interests
 
