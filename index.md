@@ -14,9 +14,9 @@ I am a Ph.D. student at ...
 ## News
 
 - **[Aug. 2024]** .
-- **[Dec. 2023]** Our paper Vulture is accepted to INFOCOM 2024.
-- **[May. 2023]** Our paper OmniLive is accepted to MobiSys 2023.
-- **[Dec. 2022]** Our paper Crow API is accepted to INFOCOM 2023.
+- **[Dec. 2023]** Our paper is accepted to INFOCOM 2024.
+- **[May. 2023]** Our paper is accepted to MobiSys 2023.
+- **[Dec. 2022]** Our paper is accepted to INFOCOM 2023.
 
 {% include_relative _includes/publications.md %}
 
