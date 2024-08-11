@@ -13,7 +13,7 @@ I am a Ph.D. student at Yonsei University under the supervision of <u><strong><a
 
 ## News
 
-- **[Dec. 2023]** Our paper is accepted to MobiCom 2024.
+- **[Jul. 2024]** Our paper is accepted to MobiCom 2024.
 - **[Dec. 2023]** Our paper is accepted to INFOCOM 2024.
 - **[May. 2023]** Our paper is accepted to MobiSys 2023.
 - **[Dec. 2022]** Our paper is accepted to INFOCOM 2023.
