@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Yonsei University under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/">Prof. Hojung Cha</a></strong></u>. My research interests lie in the intersection of mobile edge AI systems and 3D vision applications. Previously, I received my B.S. degree in Computer Engineering from Ajou University.
+I am a Ph.D. student at Yonsei University under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/">Prof. Hojung Cha</a></strong></u>. My research interests lie in the intersection of mobile edge AI systems and efficient 3D vision applications. Previously, I received my B.S. degree in Computer Engineering from Ajou University.
 
 ## Research Interests
 
-- **Mobile Edge AI Systems**: On-device 3D perception, On-device LLM/VLM, Edge-cloud collaborative AI
-- **3D Vision Methods and Applications**: Multi-view 3D object detection, 3D reconstruction, VLM-powered 3D perception
+- **Mobile Edge AI Systems**: resource-efficient on-device AI, edge-cloud collaborative AI
+- **Efficient 3D Vision Applications**: vision-based 3D object detection, VLM-powered 3D perception, volumetric content streaming
 
 ## News
 
