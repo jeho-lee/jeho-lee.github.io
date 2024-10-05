@@ -4,7 +4,7 @@ main:
     authors: <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Jiwon Kim, Hojung Cha
     conference_short: MobiCom 2024
     conference: ACM International Conference on Mobile Computing and Networking, 2024 (<strong>MobiCom 2024</strong>)
-    # pdf: https://mobed.yonsei.ac.kr/mobed_pages/pdf/index.php?name=INFOCOM24-Vulture
+    pdf: https://arxiv.org/abs/2410.01270
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/vulture.png
