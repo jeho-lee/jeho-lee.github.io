@@ -9,7 +9,7 @@ I am a Ph.D. student at Yonsei University under the supervision of <u><strong><a
 ## Research Interests
 
 - **Mobile Edge AI Systems**: resource-efficient on-device AI, edge-cloud collaborative AI
-- **Application-centric AI System Design**: intelligent 3D perception, mobile AR/MR, volumetric content streaming
+- **Application-centric AI System Design**: 3D perception, vision-language model, mobile AR/MR, volumetric content streaming
 
 ## News
 
