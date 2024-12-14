@@ -1,0 +1,6 @@
+main:
+
+  - title: "Panoptic3D: Multi-view, Multi-modal Dataset for Mobile 3D Perception"
+    description: A multi-view, multi-modal dataset for mobile 3D perception compatible with nuScenes format
+    image: ./assets/img/detection_low_quality.gif
+    code: https://github.com/jeho-lee/Panoptic3D
