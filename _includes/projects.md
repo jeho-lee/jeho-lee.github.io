@@ -10,7 +10,7 @@
   <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
   <div class="col-sm-3 abbr" style="position: relative;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=140;height=60%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=120;height=40%">
     {% endif %}
     <!-- {% if link.conference_short %}  -->
     <!-- <abbr class="badge">{{ link.conference_short }}</abbr> -->
