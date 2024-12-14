@@ -3,4 +3,4 @@ main:
   - title: "Panoptic3D: Multi-view, Multi-modal Dataset for Mobile 3D Perception"
     description: A dataset for mobile 3D perception based on 360-degree camera, LiDAR, and IMU sensors, compatible with nuScenes format
     image: ./assets/img/detection_low_quality.gif
-    code: https://github.com/jeho-lee/Panoptic3D
+    page: https://github.com/jeho-lee/Panoptic3D
