@@ -18,7 +18,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-left: 20px;">
   <!-- <div class="col-sm-9" style="position: relative;"> -->
-    <div class="title"><a href="{{ link.code }}">{{ link.title }}</a></div>
+    <div class="title"><a href="{{ link.page }}">{{ link.title }}</a></div>
     <div class="description">{{ link.description }}</div>
     <!-- <div class="periodical"><em>{{ link.conference }}</em></div> -->
     <div class="links">
