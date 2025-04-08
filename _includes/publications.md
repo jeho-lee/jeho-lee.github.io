@@ -1,5 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+<p style="margin-top: 5px; font-size: 0.95rem;"><strong>*</strong> Co-first author</p>
+
 <div class="publications">
 <ol class="bibliography">
 
@@ -18,8 +20,8 @@
   <!-- <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"> -->
   <div class="col-sm-9" style="position: relative;">
     <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-    <div class="author" style="font-size:0.9rem;">{{ link.authors }}</div>
-    <div class="periodical" style="font-size:0.9rem;"><em>{{ link.conference }}</em></div>
+    <div class="author" style="font-size:0.95rem;">{{ link.authors }}</div>
+    <div class="periodical" style="font-size:0.95rem;"><em>{{ link.conference }}</em></div>
     <div class="links">
       <!-- {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
