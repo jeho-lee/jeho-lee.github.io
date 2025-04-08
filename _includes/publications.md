@@ -1,7 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2> <p style="font-size: 0.95rem;"><strong>*</strong> Co-first author</p>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
+
+<p style="font-size: 0.95rem;"><strong>*</strong> Co-first author</p>
 
 {% for link in site.data.publications.main %}
 
