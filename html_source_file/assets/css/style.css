@@ -85,9 +85,9 @@ h1, h2, h3 { line-height: 1.1; }
 
 h1 { font-size: 28px; }
 
-a { color: #39c; text-decoration: none; }
+a { color: #000000; text-decoration: none; }
 
-a:hover { color: #069; }
+a:hover { color: #777; }
 
 @media (prefers-color-scheme: dark) { a { color: #3eb7f0; } }
 a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
