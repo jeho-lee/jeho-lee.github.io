@@ -4,3 +4,8 @@ main:
     description: NuScenes-compatible mobile 3D perception dataset based on 360-degree camera, LiDAR, and IMU sensors
     image: ./assets/img/detection_low_quality.gif
     page: https://github.com/jeho-lee/Panoptic3D
+
+  - title: "Automatic On-browser GUI Abstraction Framework"
+    description: Browser extension-based framework for automatic web page GUI abstraction
+    image: ./assets/img/web_detection.gif
+    page: https://github.com/jeho-lee/visual-webpage-section-detection
