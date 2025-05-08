@@ -3,8 +3,6 @@
 <div class="publications">
 <ol class="bibliography">
 
-<p style="font-size: 0.95rem;"><strong>*</strong> Co-first author</p>
-
 {% for link in site.data.publications_others.main %}
 
 <li>
