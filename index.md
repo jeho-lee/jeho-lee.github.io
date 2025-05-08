@@ -19,7 +19,7 @@ I am a Ph.D. student at Yonsei University, working under the supervision of <u><
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/publications_others.md %}
+<!-- {% include_relative _includes/publications_others.md %} -->
 
 {% include_relative _includes/projects.md %}
 
