@@ -1,11 +1,11 @@
-<h2 id="publications" style="margin: 2px 0px -25px;">Conference/Journal Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -25px;">Poster/Demo Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
 <p style="font-size: 0.95rem;"><strong>*</strong> Co-first author</p>
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications_others.main %}
 
 <li>
 <div class="pub-row">

@@ -1,0 +1,11 @@
+main:
+
+  - title: "Poster: Mixture of Class-aware Experts for Efficient AIoT Inference"
+    authors: Hyemin Jeong, <u><strong>Jeho Lee</strong></u>, Seunghyeok Jeon, Hojung Cha
+    conference_short: MobiSys 2025
+    conference: ACM International Conference on Mobile Systems, Applications and Services, 2025 (<strong>MobiSys 2025</strong>)
+    # pdf: https://dl.acm.org/doi/10.1145/3636534.3690688
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/vulture.png
+    # notes: Early Accept

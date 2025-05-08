@@ -1,6 +1,6 @@
 main:
 
-  - title: "ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality (To appear)"
+  - title: "ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality"
     authors: Chanyoung Jung*, <u><strong>Jeho Lee*</strong></u>, Gunjoong Kim, Jiwon Kim, Seonghoon Park, Hojung Cha
     conference_short: MobiSys 2025
     conference: ACM International Conference on Mobile Systems, Applications and Services, 2025 (<strong>MobiSys 2025</strong>)
