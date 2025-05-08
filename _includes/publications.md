@@ -5,7 +5,7 @@
 
 <p style="font-size: 0.95rem;"><strong>*</strong> Co-first author</p>
 
-<h4 style="margin:2px 0px 0px;">Conference and Journal</h4>
+<h4 style="margin: -10px 0px 6px;">Conference and Journal</h4>
 
 {% for link in site.data.publications.main %}
 
@@ -54,7 +54,7 @@
 
 
 
-<h4 style="margin:2px 0px 0px;">Poster and Demo</h4>
+<h4 style="margin:2px 0px 6px;">Poster and Demo</h4>
 
 {% for link in site.data.publications_others.main %}
 
