@@ -54,7 +54,7 @@
 
 
 
-<h4 style="margin:2px 0px 6px;">Poster and Demo</h4>
+<h4 style="margin:2px 0px 6px;">Other Publications</h4>
 
 {% for link in site.data.publications_others.main %}
 
