@@ -12,7 +12,7 @@ I am a Ph.D. student at Yonsei University, working under the supervision of <u><
 To address the challenges of deploying deep vision models on resource-constrained platforms, I take the following approaches:
 
 - **AI-system co-design**: jointly optimizing AI models and system software to meet real-time latency constraints
-- **Heterogeneous computing on mobile SoCs**: leveraging CPU, GPU, and NPU for efficient workload distribution
+- **Heterogeneous computing on mobile SoCs**: leveraging CPU, GPU, and NPU for efficient ML workload distribution
 - **ML inference dataflow optimization**: minimizing memory movement and maximizing parallelism across compute units
 
 ## News
