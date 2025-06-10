@@ -17,7 +17,7 @@ To address the challenges of deploying deep vision models on resource-constraine
 
 ## News
 
-- **[May. 2025]** I am selected as Rising Stars at ACM MobiSys 2025.
+- **[May. 2025]** I am selected as Rising Stars at ACM MobiSys 2025 and received SIGMOBILE Student Travel Grant for attending MobiSys 2025.
 - **[Apr. 2025]** Our paper is accepted to ACM MobiSys 2025.
 - **[Jul. 2024]** Our paper is accepted to ACM MobiCom 2024.
 - **[Dec. 2023]** Our paper is accepted to IEEE INFOCOM 2024.
@@ -28,4 +28,4 @@ To address the challenges of deploying deep vision models on resource-constraine
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/awards.md %}

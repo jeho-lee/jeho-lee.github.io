@@ -1,9 +1,10 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Academic Services</h4>
+<h4 style="margin:0 10px 0;">Awards and Honors</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Student volunteer at MobiSys 2024.</li>
+  <li>SIGMOBILE Student Travel Grant, ACM MobiSys 2025</li>
+  <li>Rising Star, ACM MobiSys 2025</li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
