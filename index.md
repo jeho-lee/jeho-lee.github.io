@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Yonsei University, working under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/">Prof. Hojung Cha</a></strong></u>. I am interested in building real-time, on-device vision AI systems for mobile and edge platforms, paving the way for next-generation vision AI applications such as mobile augmented reality and autonomous systems. My core research interests include:
+I am a Ph.D. student at Yonsei University, working under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/">Prof. Hojung Cha</a></strong></u>. My research focuses on building real-time, on-device vision AI systems for mobile and edge platforms, enabling next-generation applications such as mobile augmented reality and autonomous systems. My core research interests include:
 
-- **On-Device Vision AI**
+- **On-Device AI** (with a primary focus on vision AI)
 - **Mobile and Embedded Systems**
 
 To address the challenges of accelerating deep vision models on resource-constrained platforms, I take the following approaches:
