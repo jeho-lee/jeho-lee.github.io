@@ -4,7 +4,7 @@ main:
     authors: <u><strong>Jeho Lee*</strong></u>, Chanyoung Jung*, Gunjoong Kim, Jiwon Kim, Seonghoon Park, Hojung Cha
     conference_short: MobiSys 2025
     conference: ACM International Conference on Mobile Systems, Applications and Services, 2025 (<strong>MobiSys 2025</strong>)
-    # pdf: https://dl.acm.org/doi/10.1145/3636534.3690688
+    pdf: ./assets/files/aria-mobisys25.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/vulture.png
