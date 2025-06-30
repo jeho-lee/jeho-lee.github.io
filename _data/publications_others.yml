@@ -4,6 +4,7 @@ main:
     authors: <u><strong>Jeho Lee</strong></u>
     conference_short: MobiSys 2025 Rising Stars Forum
     conference: ACM International Conference on Mobile Systems, Applications and Services, 2025 (<strong>MobiSys 2025 Rising Stars Forum</strong>)
+    pdf: ./assets/files/mobisys25risingstar-jeholee.pdf
 
   - title: "Poster: Mixture of Class-aware Experts for Efficient AIoT Inference"
     authors: Hyemin Jeong, <u><strong>Jeho Lee</strong></u>, Seunghyeok Jeon, Hojung Cha
