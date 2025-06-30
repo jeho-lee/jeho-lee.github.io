@@ -16,12 +16,13 @@ To address the challenges of accelerating deep vision models on resource-constra
 
 ## News
 
-- **[May. 2025]** I am selected as one of Rising Stars at ACM MobiSys 2025 and received SIGMOBILE Student Travel Grant for attending MobiSys 2025.
-- **[Apr. 2025]** Our paper is accepted to ACM MobiSys 2025.
-- **[Jul. 2024]** Our paper is accepted to ACM MobiCom 2024.
-- **[Dec. 2023]** Our paper is accepted to IEEE INFOCOM 2024.
-- **[May. 2023]** Our paper is accepted to ACM MobiSys 2023.
-- **[Dec. 2022]** Our paper is accepted to IEEE INFOCOM 2023.
+- **[June. 2025]** Our paper was honored with the **Best Paper Award** at ACM MobiSys 2025!
+- **[May. 2025]** I am selected as one of **Rising Stars** at ACM MobiSys 2025 and received **SIGMOBILE Student Travel Grant** for attending MobiSys 2025.
+- **[Apr. 2025]** Our paper is accepted to **ACM MobiSys 2025**.
+- **[Jul. 2024]** Our paper is accepted to **ACM MobiCom 2024**.
+- **[Dec. 2023]** Our paper is accepted to **IEEE INFOCOM 2024**.
+- **[May. 2023]** Our paper is accepted to **ACM MobiSys 2023**.
+- **[Dec. 2022]** Our paper is accepted to **IEEE INFOCOM 2023**.
 
 {% include_relative _includes/publications.md %}
 
