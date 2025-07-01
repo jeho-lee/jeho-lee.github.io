@@ -8,7 +8,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/vulture.png
-    notes: Best Paper Award (2/233)
+    notes: 🏆 Best Paper Award (2/233)
 
   - title: "Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices"
     authors: <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Jiwon Kim, Hojung Cha
