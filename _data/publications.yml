@@ -1,6 +1,6 @@
 main:
 
-  - title: "[MobiSys 2025] ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality"
+  - title: "[MobiSys 2025] <u>ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality</u>"
     authors: <u><strong>Jeho Lee*</strong></u>, Chanyoung Jung*, Gunjoong Kim, Jiwon Kim, Seonghoon Park, Hojung Cha
     conference_short: MobiSys 2025
     conference: "ACM International Conference on Mobile Systems, Applications and Services, 2025 (Acceptance Rate: 42/233=18.0%)"
@@ -10,7 +10,7 @@ main:
     # image: ./assets/img/vulture.png
     notes: Best Paper Award (2/233)
 
-  - title: "[MobiCom 2024] Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices"
+  - title: "[MobiCom 2024] <u>Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices</u>"
     authors: <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Jiwon Kim, Hojung Cha
     conference_short: MobiCom 2024
     conference: "ACM International Conference on Mobile Computing and Networking, 2024 (Acceptance Rate: 103/494=20.8%)"
@@ -20,7 +20,7 @@ main:
     # image: ./assets/img/vulture.png
     # notes: Early Accept
 
-  - title: "[INFOCOM 2024] Vulture: Cross-Device Web Experience with Fine-Grained Graphical User Interface Distribution"
+  - title: "[INFOCOM 2024] <u>Vulture: Cross-Device Web Experience with Fine-Grained Graphical User Interface Distribution</u>"
     authors: Seonghoon Park, <u><strong>Jeho Lee</strong></u>, Yonghun Choi, Hojung Cha
     conference_short: INFOCOM 2024
     conference: "IEEE Conference on Computer Communications, 2024 (Acceptance Rate: 19.6%)"
@@ -30,7 +30,7 @@ main:
     # image: ./assets/img/vulture.png
     # notes: Early Accept
 
-  - title: "[MobiSys 2023] OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices"
+  - title: "[MobiSys 2023] <u>OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices</u>"
     authors: Seonghoon Park, Yeonwoo Cho, Hyungchol Jun, <u><strong>Jeho Lee</strong></u>, Hojung Cha
     conference_short: MobiSys 2023
     conference: "ACM International Conference on Mobile Systems, Applications and Services, 2023 (Acceptance Rate: 41/198=20.7%)"
@@ -40,7 +40,7 @@ main:
     # image: ./assets/img/omnilive.png
     # notes: Early Accept
 
-  - title: "[INFOCOM 2023] Crow API: Cross-device I/O Sharing in Web Applications"
+  - title: "[INFOCOM 2023] <u>Crow API: Cross-device I/O Sharing in Web Applications</u>"
     authors: Seonghoon Park, <u><strong>Jeho Lee</strong></u>, Hojung Cha
     conference_short: INFOCOM 2023
     conference: "IEEE Conference on Computer Communications, 2023 (Acceptance Rate: 19.2%)"
