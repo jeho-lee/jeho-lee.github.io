@@ -27,6 +27,6 @@ To address the challenges of accelerating deep vision models on resource-constra
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/projects.md %}
-
 {% include_relative _includes/awards.md %}
+
+{% include_relative _includes/projects.md %}
