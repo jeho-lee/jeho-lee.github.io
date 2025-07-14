@@ -3,9 +3,9 @@
 <!-- <h4 style="margin:0 10px 0;">Awards and Honors</h4> -->
 
 <ul style="margin:0 0 5px;">
-  <li>Best Paper Award, ACM MobiSys 2025</li>
-  <li>SIGMOBILE Student Travel Grant, ACM MobiSys 2025</li>
-  <li>Rising Star, ACM MobiSys 2025</li>
+  <li><strong>Best Paper Award, ACM MobiSys 2025</strong></li>
+  <li><strong>SIGMOBILE Student Travel Grant, ACM MobiSys 2025</strong></li>
+  <li><strong>Rising Star, ACM MobiSys 2025</strong></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
