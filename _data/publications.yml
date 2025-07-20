@@ -1,12 +1,5 @@
 main:
 
-  - title: "ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality"
-    authors: <u><strong>Jeho Lee*</strong></u>, Chanyoung Jung*, Gunjoong Kim, Jiwon Kim, Seonghoon Park, Hojung Cha
-    conference_short: MobiSys 2025
-    conference: "ACM International Conference on Mobile Systems, Applications and Services (<strong>MobiSys</strong>), 2025 (Acceptance Rate: 42/233=18.0%)"
-    pdf: ./assets/files/aria-mobisys25.pdf
-    notes: 🏆 Best Paper Award (2/233)
-
   - title: "Ember: Task Wakeup Sequence–Based Energy Optimization for Mobile Web Browsing"
     authors: Seonghoon Park, Jiwon Kim, <u><strong>Jeho Lee</strong></u>, Hojung Cha
     conference_short: EMSOFT 2025
@@ -18,6 +11,13 @@ main:
     conference_short: EMSOFT 2025
     conference: "ACM SIGBED International Conference on Embedded Software (<strong>EMSOFT</strong>), 2025"
     # pdf: 
+
+  - title: "ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality"
+    authors: <u><strong>Jeho Lee*</strong></u>, Chanyoung Jung*, Gunjoong Kim, Jiwon Kim, Seonghoon Park, Hojung Cha
+    conference_short: MobiSys 2025
+    conference: "ACM International Conference on Mobile Systems, Applications and Services (<strong>MobiSys</strong>), 2025 (Acceptance Rate: 42/233=18.0%)"
+    pdf: ./assets/files/aria-mobisys25.pdf
+    notes: 🏆 Best Paper Award (2/233)
 
   - title: "Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices"
     authors: <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Jiwon Kim, Hojung Cha
@@ -32,7 +32,7 @@ main:
     pdf: https://mobed.yonsei.ac.kr/mobed_pages/pdf/index.php?name=INFOCOM24-Vulture
 
   - title: "OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices"
-    authors: Seonghoon Park, Yeonwoo Cho, Hyungchol Jun, <u><strong>Jeho Lee</strong></u>, Hojung Cha
+    authors: Seonghoon Park*, Yeonwoo Cho*, Hyungchol Jun, <u><strong>Jeho Lee</strong></u>, Hojung Cha
     conference_short: MobiSys 2023
     conference: "ACM International Conference on Mobile Systems, Applications and Services (<strong>MobiSys</strong>), 2023 (Acceptance Rate: 41/198=20.7%)"
     pdf: https://dl.acm.org/doi/abs/10.1145/3581791.3596851

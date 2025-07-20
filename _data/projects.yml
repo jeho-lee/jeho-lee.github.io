@@ -5,8 +5,8 @@ main:
     image: ./assets/img/detection_low_quality.gif
     page: https://github.com/jeho-lee/Panoptic3D
 
-  - title: "Automatic On-browser GUI Abstraction Framework"
-    description: Browser extension-based framework for automatic web GUI abstraction through visual page section detection
+  - title: "Automatic On-browser GUI Segmentation"
+    description: Browser extension-based system for automatic segmentation of web GUI through AI-driven page section detection and DOM-based post-processing
     image: ./assets/img/web_detection.gif
     page: https://github.com/jeho-lee/visual-webpage-section-detection
     
