@@ -1,7 +1,7 @@
 main:
 
   - title: "[MobiCom 2025] Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting"
-    authors: Gunjoong Kim*, Seonghoon Park*, <u><strong>Jeho Lee</strong></u>, and Chanyoung Jung, Hyungchol Jun, Hojung Cha
+    authors: Gunjoong Kim*, Seonghoon Park*, <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Hyungchol Jun, Hojung Cha
     conference_short: MobiCom 2025
     # conference: "ACM International Conference on Mobile Computing and Networking (<strong>MobiCom</strong>), 2025"
     # pdf: 
