@@ -6,13 +6,13 @@ layout: homepage
 
 I am a Ph.D. student at Yonsei University, working under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/">Prof. Hojung Cha</a></strong></u>. My research focuses on building real-time, on-device vision AI systems for mobile and edge platforms, enabling next-generation spatial computing applications such as AR/XR and autonomous systems. My core research interests include:
 
-- **On-Device AI** (with a primary focus on vision AI)
+- **On-Device AI** (with a primary focus on large vision models)
 - **Mobile and Embedded Systems**
 
 To address the challenges of accelerating deep vision models on resource-constrained platforms, I take the following approaches:
 
-- **AI-system co-optimization**: jointly optimizing AI models and system software to meet real-time latency targets on given hardware
-- **Heterogeneous computing on mobile SoCs**: hardware-aware AI inference acceleration on heterogeneous processors (CPU/GPU/NPU), minimizing off-chip memory access and maximizing parallelism
+- **AI-system co-optimization**: jointly optimizing AI models and system software to meet real-time latency targets on given hardware, utilizing techniques like mixed-precision quantization, runtime computation scheduling
+- **Hardware-specific inference optimization**: Inference acceleration using heterogeneous processors within mobile SoCs (e.g., CPU, GPU, NPU); Compiler/Graph optimizations for mobile NPUs (e.g., Hexagon NPUs) to minimize off-chip memory access and maximize parallelism
 
 ## News
 
