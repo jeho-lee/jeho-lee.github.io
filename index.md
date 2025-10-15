@@ -11,7 +11,7 @@ I am a Ph.D. student at Yonsei University, working under the supervision of <u><
 
 To address the challenges of accelerating deep vision models on resource-constrained platforms, I take the following approaches:
 
-- **AI-system co-optimization**: jointly optimizing AI models and system software to meet real-time latency targets on given hardware, utilizing techniques like mixed-precision quantization, processor scheduling
+- **AI-system co-optimization**: jointly optimizing AI models and system software to meet real-time latency targets on given hardware, utilizing techniques like mixed-precision quantization, runtime processor scheduling
 - **Hardware-specific inference optimization**: Inference acceleration using heterogeneous processors within mobile SoCs (e.g., CPU, GPU, NPU); Inference optimizations for mobile NPUs (e.g., Hexagon NPUs) to minimize off-chip memory access and maximize hardware utilization
 
 ## News
