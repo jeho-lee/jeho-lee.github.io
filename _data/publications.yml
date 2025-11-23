@@ -4,13 +4,13 @@ main:
     authors: Gunjoong Kim*, Seonghoon Park*, <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Hyungchol Jun, Hojung Cha
     conference_short: MobiCom 2025
     # conference: "ACM International Conference on Mobile Computing and Networking (<strong>MobiCom</strong>), 2025"
-    # pdf: 
+    pdf: https://dl.acm.org/doi/10.1145/3680207.3765267
 
   - title: "[MobiCom 2025] EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos"
     authors: Seonghoon Park, Minchan Kim, Hyejin Park, <u><strong>Jeho Lee</strong></u>, Jiwon Kim, Hojung Cha
     conference_short: MobiCom 2025
     # conference: "ACM International Conference on Mobile Computing and Networking (<strong>MobiCom</strong>), 2025"
-    # pdf: 
+    pdf: https://dl.acm.org/doi/10.1145/3680207.3765252
 
   - title: "[EMSOFT 2025] Ember: Task Wakeup Sequence–Based Energy Optimization for Mobile Web Browsing"
     authors: Seonghoon Park, Jiwon Kim, <u><strong>Jeho Lee</strong></u>, Hojung Cha
