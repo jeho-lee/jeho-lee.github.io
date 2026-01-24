@@ -17,7 +17,7 @@ To address the challenges of accelerating deep vision models on resource-constra
 
 ## News
 
-- **[Jan. 2026]** Our paper is accepted to **ACM Transactions on Embedded Computing Systems (TECS)**.
+- **[Jan. 2026]** Our paper is accepted to **ACM TECS**.
 - **[Aug. 2025]** Two papers are accepted to **ACM MobiCom 2025**.
 - **[Jul. 2025]** Two papers are accepted to **ACM EMSOFT 2025**.
 - **[June. 2025]** Our paper won the **Best Paper Award** 🏆 at ACM MobiSys 2025!
