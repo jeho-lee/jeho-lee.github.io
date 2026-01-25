@@ -34,7 +34,8 @@ main:
     conference_short: MobiSys 2025
     # conference: "ACM International Conference on Mobile Systems, Applications and Services (<strong>MobiSys</strong>), 2025 (Acceptance Rate: 42/233=18.0%)"
     pdf: https://dl.acm.org/doi/10.1145/3711875.3729161
-    notes: 🏆 Best Paper Award (2/233)
+    # notes: 🏆 Best Paper Award (2/233) | Invited to ACM GetMobile
+    notes: "🏆 <a href='https://www.acm.org/conferences/best-paper-awards' target='_blank'>Best Paper Award (2/233)</a> | Invited to <a href='https://dl.acm.org/doi/10.1145/3793236.3793246' target='_blank'>ACM GetMobile</a>"
 
   - title: "[ACM MobiCom 2024] Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices"
     authors: <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Jiwon Kim, Hojung Cha
