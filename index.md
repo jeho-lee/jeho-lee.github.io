@@ -16,7 +16,7 @@ To address the challenges of accelerating deep vision models on resource-constra
 - **Hardware-aware inference optimization**: Inference acceleration using heterogeneous processors within mobile SoCs (e.g., CPU, GPU, NPU); Inference optimizations for mobile NPUs (e.g., Hexagon NPUs) to minimize off-chip memory access and maximize hardware utilization
 
 ## News
-
+- **[Jan. 2026]** ARIA (ACM MobiSys 2025) has been invited to and published in ACM GetMobile.
 - **[Jan. 2026]** Our paper is accepted to **ACM TECS**.
 - **[Aug. 2025]** Two papers are accepted to **ACM MobiCom 2025**.
 - **[Jul. 2025]** Two papers are accepted to **ACM EMSOFT 2025**.

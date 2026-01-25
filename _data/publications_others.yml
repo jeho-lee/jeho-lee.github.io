@@ -1,5 +1,10 @@
 main:
 
+  - title: "[ACM GetMobile] VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality"
+    authors: <u><strong>Jeho Lee*</strong></u>, Chanyoung Jung*, Gunjoong Kim, Jiwon Kim, Seonghoon Park, Hojung Cha
+    conference_short: ACM GetMobile
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3793236.3793246
+
   - title: "[ACM MobiSys 2025 Rising Stars Forum] Towards Accurate, Adaptive, and Real-time Machine Perception on Resource-constrained Platforms"
     authors: <u><strong>Jeho Lee</strong></u>
     conference_short: MobiSys 2025 Rising Stars Forum
