@@ -1,5 +1,10 @@
 main:
 
+  - title: "[ACM EuroSys 2026] viNPU: Optimizing Vision Transformer Inference on Mobile NPUs"
+    authors: <u><strong>Jeho Lee</strong></u>, Gunjoong Kim, Chanyoung Jung, Jaehee Kim, Seonghoon Park, Hojung Cha
+    conference_short: EuroSys 2026
+    # pdf: https://dl.acm.org/doi/10.1145/3680207.3765267
+
   - title: "[ACM TECS] Phoenix: Thermal-Aware On-device Inference of Multi-Instance DNNs for Mobile Video Applications"
     authors: Seunghyeok Jeon, Jiwon Kim, <u><strong>Jeho Lee</strong></u>, Hojung Cha
     conference_short: ACM TECS

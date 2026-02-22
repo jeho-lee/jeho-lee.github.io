@@ -16,17 +16,18 @@ To address the challenges of accelerating deep vision models on resource-constra
 - **Hardware-aware inference optimization**: Inference acceleration using heterogeneous processors within mobile SoCs (e.g., CPU, GPU, NPU); Inference optimizations for mobile NPUs (e.g., Hexagon NPUs) to minimize off-chip memory access and maximize hardware utilization
 
 ## News
+- **[Feb. 2026]** Our paper has been accepted to **EuroSys**.
 - **[Jan. 2026]** Our paper (ARIA) has been invited/published to **ACM GetMobile**.
-- **[Jan. 2026]** Our paper is accepted to **ACM TECS**.
-- **[Aug. 2025]** Two papers are accepted to **ACM MobiCom 2025**.
-- **[Jul. 2025]** Two papers are accepted to **ACM EMSOFT 2025**.
+- **[Jan. 2026]** Our paper has been accepted to **ACM TECS**.
+- **[Aug. 2025]** Two papers have been accepted to **ACM MobiCom 2025**.
+- **[Jul. 2025]** Two papers have been accepted to **ACM EMSOFT 2025**.
 - **[June. 2025]** Our paper won the **Best Paper Award** 🏆 at ACM MobiSys 2025.
 - **[May. 2025]** I am selected as one of **Rising Stars** at ACM MobiSys 2025 and received **SIGMOBILE Student Travel Grant** for attending MobiSys 2025.
-- **[Apr. 2025]** Our paper is accepted to **ACM MobiSys 2025**.
-- **[Jul. 2024]** Our paper is accepted to **ACM MobiCom 2024**.
-- **[Dec. 2023]** Our paper is accepted to **IEEE INFOCOM 2024**.
-- **[May. 2023]** Our paper is accepted to **ACM MobiSys 2023**.
-- **[Dec. 2022]** Our paper is accepted to **IEEE INFOCOM 2023**.
+- **[Apr. 2025]** Our paper has been accepted to **ACM MobiSys 2025**.
+- **[Jul. 2024]** Our paper has been accepted to **ACM MobiCom 2024**.
+- **[Dec. 2023]** Our paper has been accepted to **IEEE INFOCOM 2024**.
+- **[May. 2023]** Our paper has been accepted to **ACM MobiSys 2023**.
+- **[Dec. 2022]** Our paper has been accepted to **IEEE INFOCOM 2023**.
 
 {% include_relative _includes/publications.md %}
 
