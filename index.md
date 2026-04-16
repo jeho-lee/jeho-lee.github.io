@@ -10,7 +10,7 @@ I am a Ph.D. candidate at Yonsei University, working under the supervision of <u
 - **Systems for ML**
 - **Mobile Systems and Heterogeneous Computing**
 
-To address the challenges of accelerating deep vision models on resource-constrained platforms, I take the following approaches:
+To address the challenges of accelerating on-device ML on resource-constrained platforms, I take the following approaches:
 
 - **Hardware-aware inference optimization for mobile NPUs**: Maximizing data locality and hardware utilization of mobile NPUs (e.g., Qualcomm Hexagon NPUs) through graph-level optimizations and hardware-efficient quantization
 - **System-level inference optimization for mobile SoCs**: Distributing inference workloads across heterogeneous accelerators (NPU, GPU) under mobile platform dynamics (e.g., shared-resource contention, power constraints) to meet real-time performance and energy efficiency goals.
