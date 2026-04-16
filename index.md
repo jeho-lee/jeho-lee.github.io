@@ -12,7 +12,7 @@ I am a Ph.D. candidate at Yonsei University, working under the supervision of <u
 
 To address the challenges of accelerating on-device ML on resource-constrained platforms, I take the following approaches:
 
-- **Hardware-aware inference optimization for mobile NPUs**: Maximizing data locality and hardware utilization of mobile NPUs (e.g., Qualcomm Hexagon NPUs) through graph-level optimizations and hardware-efficient quantization
+- **Hardware-aware inference optimization for mobile NPUs**: Maximizing data locality and hardware utilization of mobile NPUs (e.g., Qualcomm Hexagon NPUs) through hardware-efficient quantization and graph-level optimizations
 - **System-level inference optimization for mobile SoCs**: Distributing inference workloads across heterogeneous accelerators (NPU, GPU) under mobile platform dynamics (e.g., shared-resource contention, power constraints) to meet real-time performance and energy efficiency goals.
 
 <!-- - **AI-system co-optimization**: jointly optimizing AI models and system software to meet real-time latency targets on given hardware, utilizing techniques like mixed-precision quantization, runtime processor scheduling
