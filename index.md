@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Yonsei University, working under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/index.php?mid=Homepage">Prof. Hojung Cha</a></strong></u>. My research builds system software that enables vision foundation models to run efficiently on heterogeneous mobile SoCs, with a focus on mobile NPUs (or neural engines). My core research interests include:
+I am a Ph.D. candidate at Yonsei University, working under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/index.php?mid=Homepage">Prof. Hojung Cha</a></strong></u>. My research focuses on building system software that enables modern neural networks to run efficiently on heterogeneous mobile SoCs, particularly mobile NPUs (or neural engines). My core research interests include:
 
 - **On-Device AI, Systems for ML, Mobile Systems**
 
