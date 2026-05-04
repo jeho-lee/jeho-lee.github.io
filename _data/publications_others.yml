@@ -1,5 +1,10 @@
 main:
 
+  - title: "[ACM GetMobile] 3DGS on Your Phone: Towards Fully Immersive Mobile Volumetric Video Streaming"
+    authors: Gunjoong Kim*, Seonghoon Park*, <u><strong>Jeho Lee</strong></u>, Chanyoung Jung, Hyungchol Jun, Hojung Cha
+    conference_short: ACM GetMobile
+    pdf: https://dl.acm.org/doi/10.1145/3810919.3810924
+
   - title: "[ACM GetMobile] VFM in Your Hands: Optimizing Real-Time Scene Understanding for Mobile Augmented Reality"
     authors: <u><strong>Jeho Lee*</strong></u>, Chanyoung Jung*, Gunjoong Kim, Jiwon Kim, Seonghoon Park, Hojung Cha
     conference_short: ACM GetMobile
