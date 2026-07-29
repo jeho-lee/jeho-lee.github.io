@@ -17,6 +17,7 @@ To address the challenges of accelerating on-device ML on resource-constrained p
 - **Hardware-aware inference optimization**: Inference acceleration using heterogeneous processors within mobile SoCs (e.g., CPU, GPU, NPU); Inference optimizations for mobile NPUs (e.g., Hexagon NPUs) to minimize off-chip memory access and maximize hardware utilization -->
 
 ## News
+- **[Jul. 2026]** Our paper has been accepted to **ACM EMSOFT 2026**.
 - **[Apr. 2026]** Our paper (Vega @ MobiCom25) has been invited to **ACM GetMobile**.
 - **[Feb. 2026]** Our paper has been accepted to **EuroSys 2026**.
 - **[Jan. 2026]** Our paper (ARIA @ MobiSys25) has been invited to **ACM GetMobile**.
