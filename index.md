@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Yonsei University, advised by <u><strong><a href="https://mobed.yonsei.ac.kr/index.php?mid=Homepage">Prof. Hojung Cha</a></strong></u>, and expect to graduate in February 2027.
+I am a Ph.D. candidate (exp. Feb 2027) at Yonsei University, advised by <u><strong><a href="https://mobed.yonsei.ac.kr/index.php?mid=Homepage">Prof. Hojung Cha</a></strong></u>.
 
 I develop **system software for efficient on-device AI inference**, with a focus on mobile NPUs and heterogeneous mobile SoCs. To address the challenges of accelerating on-device inference on resource-constrained platforms, I take the following approaches:
 
