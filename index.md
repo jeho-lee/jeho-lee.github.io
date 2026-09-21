@@ -4,14 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Yonsei University, working under the supervision of <u><strong><a href="https://mobed.yonsei.ac.kr/index.php?mid=Homepage">Prof. Hojung Cha</a></strong></u>. My research focuses on building system software that enables modern neural networks to run efficiently on heterogeneous mobile SoCs, particularly mobile NPUs (or neural engines). My core research interests include:
+I am a Ph.D. candidate at Yonsei University, advised by <u><strong><a href="https://mobed.yonsei.ac.kr/index.php?mid=Homepage">Prof. Hojung Cha</a></strong></u>, and expect to graduate in February 2027.
 
-- **On-Device AI, Systems for ML, Mobile Systems**
+I develop **system software for efficient on-device AI inference**, with a focus on mobile NPUs and heterogeneous mobile SoCs. To address the challenges of accelerating on-device inference on resource-constrained platforms, I take the following approaches:
 
-To address the challenges of accelerating on-device ML on resource-constrained platforms, I take the following approaches:
-
-- **Hardware-aware inference optimization for mobile NPUs**: Maximizing data locality and hardware utilization of mobile NPUs (e.g., Qualcomm Hexagon NPUs) through hardware-efficient quantization and graph-level optimizations
-- **System-level inference optimization for mobile SoCs**: Distributing inference workloads across heterogeneous accelerators (NPU, GPU) under mobile platform dynamics (e.g., shared-resource contention, power constraints) to meet real-time performance and energy efficiency goals
+- **NPU inference optimization:** Optimizing computation graphs and mixed-precision quantization for efficient on-chip dataflow and hardware utilization, particularly for Qualcomm Hexagon NPUs.
+- **Heterogeneous inference systems:** Coordinating inference across NPUs and GPUs to meet latency and energy goals under shared-resource contention and changing device performance.
 
 <!-- - **AI-system co-optimization**: jointly optimizing AI models and system software to meet real-time latency targets on given hardware, utilizing techniques like mixed-precision quantization, runtime processor scheduling
 - **Hardware-aware inference optimization**: Inference acceleration using heterogeneous processors within mobile SoCs (e.g., CPU, GPU, NPU); Inference optimizations for mobile NPUs (e.g., Hexagon NPUs) to minimize off-chip memory access and maximize hardware utilization -->
