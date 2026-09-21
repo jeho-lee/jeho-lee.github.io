@@ -1,0 +1,36 @@
+<li>
+  <div class="pub-row">
+    <div class="col-sm-9">
+    <div class="title">
+      {% if include.paper.pdf %}
+        <a href="{{ include.paper.pdf }}">{{ include.paper.title }}</a>
+      {% else %}
+        {{ include.paper.title }}
+      {% endif %}
+    </div>
+    <div class="author">{{ include.paper.authors }}</div>
+    {% if include.paper.conference %}
+      <div class="periodical"><em>{{ include.paper.conference }}</em></div>
+    {% endif %}
+    {% if include.paper.code or include.paper.page or include.paper.bibtex or include.paper.notes or include.paper.others %}
+      <div class="links">
+        {% if include.paper.code %}
+          <a href="{{ include.paper.code }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Code</a>
+        {% endif %}
+        {% if include.paper.page %}
+          <a href="{{ include.paper.page }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Project Page</a>
+        {% endif %}
+        {% if include.paper.bibtex %}
+          <a href="{{ include.paper.bibtex }}" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">BibTeX</a>
+        {% endif %}
+        {% if include.paper.notes %}
+          <strong class="publication-award">{{ include.paper.notes }}</strong>
+        {% endif %}
+        {% if include.paper.others %}
+          {{ include.paper.others }}
+        {% endif %}
+      </div>
+    {% endif %}
+    </div>
+  </div>
+</li>

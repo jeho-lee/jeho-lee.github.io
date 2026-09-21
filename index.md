@@ -16,10 +16,17 @@ To address the challenges of accelerating on-device ML on resource-constrained p
 <!-- - **AI-system co-optimization**: jointly optimizing AI models and system software to meet real-time latency targets on given hardware, utilizing techniques like mixed-precision quantization, runtime processor scheduling
 - **Hardware-aware inference optimization**: Inference acceleration using heterogeneous processors within mobile SoCs (e.g., CPU, GPU, NPU); Inference optimizations for mobile NPUs (e.g., Hexagon NPUs) to minimize off-chip memory access and maximize hardware utilization -->
 
+{% include publications.md group="selected" %}
+
 ## News
+
 - **[Jul. 2026]** Our paper has been accepted to **ACM EMSOFT 2026**.
 - **[Apr. 2026]** Our paper (Vega @ MobiCom25) has been invited to **ACM GetMobile**.
 - **[Feb. 2026]** Our paper has been accepted to **EuroSys 2026**.
+
+<details class="earlier-news" markdown="1">
+<summary>Earlier news</summary>
+
 - **[Jan. 2026]** Our paper (ARIA @ MobiSys25) has been invited to **ACM GetMobile**.
 - **[Jan. 2026]** Our paper has been accepted to **ACM TECS**.
 - **[Aug. 2025]** Two papers have been accepted to **ACM MobiCom 2025**.
@@ -32,8 +39,12 @@ To address the challenges of accelerating on-device ML on resource-constrained p
 - **[May. 2023]** Our paper has been accepted to **ACM MobiSys 2023**.
 - **[Dec. 2022]** Our paper has been accepted to **IEEE INFOCOM 2023**.
 
-{% include_relative _includes/publications.md %}
+</details>
+
+{% include publications.md group="other" %}
 
 {% include_relative _includes/awards.md %}
+
+{% include professional-activities.md %}
 
 <!-- {% include_relative _includes/projects.md %} -->
