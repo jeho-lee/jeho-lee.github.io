@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. candidate (exp. Feb 2027) at Yonsei University, advised by <u><strong><a href="https://mobed.yonsei.ac.kr/index.php?mid=Homepage">Prof. Hojung Cha</a></strong></u>.
 
-I develop **system software for efficient on-device AI inference**, with a focus on mobile NPUs and heterogeneous mobile SoCs. To address the challenges of accelerating on-device inference on resource-constrained platforms, I take the following approaches:
+My research aims to make **on-device intelligence** practical for continuous, real-time perception and understanding of the physical world. I develop **system software for efficient on-device AI inference**, with a focus on mobile NPUs and heterogeneous mobile SoCs. My work centers on two areas:
 
 - **NPU inference optimization:** Optimizing computation graphs and mixed-precision quantization for efficient on-chip dataflow and hardware utilization, particularly for Qualcomm Hexagon NPUs.
 - **Heterogeneous inference systems:** Coordinating inference across NPUs and GPUs to meet latency and energy goals under shared-resource contention and changing device performance.
